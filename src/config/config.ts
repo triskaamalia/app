@@ -8,7 +8,7 @@ const config ={
     appId: "1:201502806363:web:f68b727819010edaffca7e"
   },
   server : {
-    url : 'http://localhost:1337/api'
+    url : 'http://103.183.75.195/api'
   }
 }
 
